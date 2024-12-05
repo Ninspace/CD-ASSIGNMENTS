@@ -1,0 +1,181 @@
+html {
+    height: 500px;
+    width: 500px;
+    background-color: rgb(255, 249, 241);
+}
+.container{
+    height: 580px;
+    width: 930px;
+    background-color: silver;
+    margin: 100px;
+}
+.top-nav {
+    height: 180px;
+    width: 930px;
+    background-color: #17a2b8;
+}
+.main {
+    height: 395px;
+    width: 920px;
+    background-color: white;
+    margin-left: 5px;
+    display: flex;
+}
+.row {
+    margin-top: 60px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    font-family: cursive;
+}
+.img {
+    height: 150px;
+    width: 150px;
+    margin-top: 105px;
+    margin-left: 50px;
+    border-radius: 5%;
+}
+.cookie{
+    height: 22px;
+    width: 14px;
+    margin-top: 124px;
+    margin-left: 65px;
+}
+.row {
+    margin-left: 14px;
+}
+.content{
+    margin-top: -10px;
+    margin-left: -40px;
+}
+.sub-content{
+    margin-top: -42px;
+    padding: 5px;
+}
+.jobs{
+    margin-top: 10px;
+    margin-left: -55px;
+    font-size: 15pt;
+}
+.status{
+    margin-top: 2px;
+    font-size: 15pt;
+    margin-left: -55px;
+}
+.edit{
+    margin-top: 50px;
+    margin-left: -12px;
+    font-size: 15pt;
+    color: blue;
+    text-decoration: underline;
+}
+.wheel{
+    height: 20px;
+    width: 20px;
+    margin-top: 290px;
+    margin-left: -30px;
+}
+.book{
+    height: 250px;
+    width: 300px;
+    margin-left: 1000px;
+    margin-top: 26px;
+    background-color: white;
+    border: 2px solid lightgray;
+}
+.overhead{
+    height: 75px;
+    width: 1540px;
+    margin-left: -112px;
+    margin-top: -676px;
+background-color: rgb(0, 0, 0);}
+.borders {
+    height: 70px;
+    background-color: #323232;
+    font-family: cursive;
+    color: white;
+    font-size: 15pt;
+} 
+.baby {
+    padding: 18px;
+    text-align: center;
+}
+.titles{
+    font-size: large;
+    font-family: cursive;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+.sign {
+    margin-left: 1000px;
+}
+.connections{
+    height: 304px;
+    width: 300px;
+    margin-left: 1000px;
+    margin-top: 620px;
+    background-color: white;
+    border: 2px solid lightgray;
+}
+.borders2 {
+    height: 70px;
+    background-color: #323232;
+    font-size: 15pt;
+    margin-top: -2px;
+    font-family: cursive;
+    color: white;
+    padding: 2px;
+}
+.baby2 {
+    padding: 18px;
+    text-align: center;
+}
+.eduction {
+    height: 300px;
+    width: 930px;
+    margin-top: 50px;
+    background-color: white;
+    border: 2px solid lightgray;
+}
+.borders3 {
+    height: 70px;
+    background-color: #323232;
+    font-family: cursive;
+    color: white;
+    font-size: 29pt;
+}
+.baby3 {
+    padding: 12px;
+    
+}
+.im0 { 
+    height: 50px;
+    width: 50px;
+    margin-top: 1px;
+    border: 2px solid black;
+}
+.im00 { 
+    height: 50px;
+    width: 50px;
+    margin-top: 102px;
+    border: 2px solid blue;
+}
+.im { 
+    height: 50px;
+    width: 50px;
+    margin: 22px;
+}
+.im2 { 
+    height: 50px;
+    width: 50px;
+    margin-top: 42px;
+}
+.im3 { 
+    height: 50px;
+    width: 50px;
+}
+.im4 { 
+    height: 50px;
+    width: 50px;
+}

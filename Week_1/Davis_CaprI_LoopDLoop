@@ -1,0 +1,4 @@
+var x = [] // this for the amount of candy and the starting point
+for(var i=1; i<3; i++) // i<3 is the stopping point since that would be the second value and where the runner would stop
+{x.push(i*3);}
+console.log(x)

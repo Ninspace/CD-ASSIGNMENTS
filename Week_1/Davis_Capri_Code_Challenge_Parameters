@@ -1,0 +1,10 @@
+function GreetSomeone(Anakin) {
+    if (Anakin == "Anakin") {
+        console.log("Good Afternoon, Anakin!");
+    }
+    if (Anakin == "Count Dooku") {
+        console.log("I'm coming for you, Dooku!");
+    }
+}
+GreetSomeone("Anakin");
+GreetSomeone("Count Dooku");

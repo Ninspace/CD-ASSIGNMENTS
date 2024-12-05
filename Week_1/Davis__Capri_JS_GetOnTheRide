@@ -1,0 +1,7 @@
+// The variables to determine if the the guests can ride.
+var mininum_age = 10
+var mininum_height = 42
+if (mininum_age <= 10) {console.log("Let's check your height.")}
+else if (mininum_age <= 10) {console.log("Sorry kiddo. Maybe next year.")}
+if (mininum_height <= 42) {console.log("Get on that ride, kiddo!")}
+else if (mininum_height <= 42) {console.log("Sorry kiddo. Maybe next year.")}

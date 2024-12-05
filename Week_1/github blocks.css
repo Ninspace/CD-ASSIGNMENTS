@@ -1,0 +1,67 @@
+html{
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial;
+    color: darkgray;
+}
+.blue{
+    height: 200px;
+    width: 930px;
+    background-color: teal;
+    margin-top: 40px;
+    margin-left: 300px;
+}
+.cat1{
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+}
+.cat2{
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+}
+.cat3{
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+}
+.purple{
+    height: 200px;
+    width: 930px;
+    background-color: indigo;
+    margin-top: 40px;
+    margin-left: 300px;
+}
+.cat4{
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+}
+.cat5{
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+}
+.green{
+    height: 200px;
+    width: 930px;
+    background-color: seagreen;
+    margin-top: 40px;
+    margin-left: 300px;
+}
+.cat6{
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+}
+.cat7{
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+}
+.cat8{
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+}
